@@ -20,11 +20,12 @@ Passionate about building and systems.
 ![AWS RDS](https://img.shields.io/badge/AWS%20RDS-527FFF?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Shell](https://img.shields.io/badge/Shell-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 
 
 ## 📌 Current Focus
-Building a strong foundation and expanding into adjacent domains such as LLMs (Prompting, Embeddings, RAG), Docker, GitHub Actions, NoSQL, PySpark, Airflow, dbt and Microsoft Fabric.
+Building a strong foundation and expanding into adjacent domains such as LLMs (Prompting, Embeddings, RAG), GitHub Actions, NoSQL, PySpark, Airflow, dbt and Microsoft Fabric.
 
 
 
