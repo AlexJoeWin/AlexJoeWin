@@ -26,7 +26,7 @@ Passionate about building and systems.
 
 
 ## 📌 Current Focus
-Building a strong foundation and expanding into adjacent domains such as __LLMs__ (Prompt Engineering, Embeddings, LangChain), __GitHub Actions__, __NoSQL__, __PySpark__, __Airflow__, __dbt__ and __Microsoft Fabric__.
+Building a strong foundation and expanding into adjacent domains such as __LLMs__ (Prompt Engineering, Embeddings, LangChain), __GitHub Actions__, __NoSQL__, __PySpark__, __Airflow__ and __Microsoft Fabric__.
 
 
 
