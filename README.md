@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Alex
 
-🧬 Molecular Biologist | 🏗 Civil Engineer | 💻 Emerging Data Engineer & Backend Engineer
+🧬 Molecular Biologist | 🏗 Civil Engineer | 💻 Python Developer & Data Geek
 
-Passionate about building and systems.
+**Passionate about building systems.**
 
 ---
 
