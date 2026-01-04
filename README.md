@@ -31,9 +31,9 @@ Building a strong foundation and expanding into adjacent domains such as __LLMs_
 
 
 
-## 🔧 What I Do
+## 🔧 What I Like To Do
 
-- 🧠 Architect (modular) ML pipelines and secure backend APIs
+- 🧠 Architect systems, pipelines and backend APIs
 - 🛠 Automate workflows across Unix, Windows, and cloud platforms
 - 🐳 Containerize Python apps with Docker for reproducible deployment
 
