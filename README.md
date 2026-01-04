@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Alex
 
-🧬 Molecular Biologist | 🏗 Civil Engineer | 💻 Python Developer & Data Geek
+🧬 Molecular Biologist | 🏗 Civil Engineer | 💻 Python & Data Geek
 
 **Passionate about building systems.**
 
